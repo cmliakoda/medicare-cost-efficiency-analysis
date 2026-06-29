@@ -1,0 +1,4 @@
+# Large data files — too big for GitHub
+data/*.csv
+data/*.db
+output/*.csv
